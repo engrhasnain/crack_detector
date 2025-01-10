@@ -23,6 +23,7 @@ The proposed system leverages CNNs for image classification and crack detection 
 # Methodology
 ## 1. Data Collection and Preprocessing
 - **Data Sources**: Public datasets like SDNet2018.
+- **Link to Dataset**: https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images
 - **Preprocessing Steps**: 
   - Resizing and normalizing images.
 
